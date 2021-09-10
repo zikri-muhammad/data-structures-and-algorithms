@@ -40,3 +40,8 @@ class Wizzard extends Player {
 
 const wizzard1 = new Wizzard('Shuna', 'Healer');
 const wizzard2 = new Wizzard('diablo', 'Dark Magic');
+
+console.log(wizzard1);
+console.log(wizzard2);
+console.log(wizzard1.play());
+console.log(wizzard2.introduce());
