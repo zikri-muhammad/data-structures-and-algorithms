@@ -9,3 +9,4 @@ do {
 
 console.log(a)
 
+// na
