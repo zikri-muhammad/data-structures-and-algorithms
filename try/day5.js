@@ -5,7 +5,7 @@ function Example() {
   return true
 }
 
-// implement array function
+// implement arraw function
 const example = () => {
   return 
 }
