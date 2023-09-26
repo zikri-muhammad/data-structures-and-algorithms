@@ -1,14 +1,13 @@
-//  understand array function 
+//  understand array function
 
-// 
+//
 function Example() {
-  return true
+  return true;
 }
 
 // implement arraw function
 const example = () => {
-  return 
-}
+  return;
+};
 
-
-console.log(Example())
+console.log(Example());
